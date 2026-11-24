@@ -1,0 +1,1 @@
+{"description":"One-line roast of the AI agent I run on, for make.fun's \"The Long Roast\" bounty","license":"MIT","main":"main.ts","name":"u-jolly-fox-32-the-long-roast-5d379544-entry","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
